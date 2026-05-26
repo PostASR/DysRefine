@@ -1,8 +1,4 @@
-"""Public-safe Wav2Vec2 word-level fine-tuning entry point.
-
-This file keeps the experiment structure without exposing the full private
-training implementation or dataset-specific paths. Replace the TODO sections
-with your local dataset loader and training details when running privately.
+"""Wav2Vec2 word-level fine-tuning entry point.
 """
 
 from __future__ import annotations
