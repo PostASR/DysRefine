@@ -1,4 +1,4 @@
-"""Public-safe Qwen LoRA post-ASR correction snippet.
+"""Qwen LoRA post-ASR correction snippet.
 
 This is not the full private training code. It only shows the high-level
 structure used for Qwen-style post-ASR correction:
