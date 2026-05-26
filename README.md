@@ -5,6 +5,9 @@ post-ASR correction project. It shows the overall idea and small code
 examples only. Full training code, datasets, model weights, checkpoints,
 and result files are not included.
 
+Submission note: this work is submitted to EMNLP 2026, held in Budapest,
+Hungary.
+
 ## Overall Pipeline
 
 ```text
@@ -39,6 +42,13 @@ The project uses simple preprocessing before training and evaluation:
 - remove unsupported symbols
 - prepare train, validation, and test splits
 - compute WER, CER, MER, and exact match
+
+## Datasets Used
+
+Only dataset names and official links are provided here:
+
+- [TORGO](https://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html)
+- [UASpeech](https://speechtechnology.web.illinois.edu/uaspeech/)
 
 ## Included Snippets
 
