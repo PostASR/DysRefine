@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training outputs
+runs/
+checkpoints/
+checkpoint-*/
+outputs/
+logs/
+wandb/
+lightning_logs/
+tb_logs/
+
+# Model weights and caches
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+cache/
+models/
+local_model/
+
+# Data and generated artifacts
+data/
+datasets/
+manifests/
+*.wav
+*.flac
+*.mp3
+*.csv
+*.jsonl
+*.parquet
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+
