@@ -5,7 +5,7 @@ post-ASR correction project. It shows the overall idea and small code
 examples only. Full training code, datasets, model weights, checkpoints,
 and result files are not included.
 
-Submission note: this work is submitted to EMNLP 2026, held in Budapest,
+Submission note: This work is submitted to EMNLP 2026, held in Budapest,
 Hungary.
 
 ## Overall Pipeline
