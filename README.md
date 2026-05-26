@@ -1,6 +1,6 @@
 # DysRefine
 
-DysRefine is a public-safe snippet repository for a dysarthric speech
+DysRefine is a snippet repository for a dysarthric speech
 post-ASR correction project. It shows the overall idea and small code
 examples only. Full training code, datasets, model weights, checkpoints,
 and result files are not included.
